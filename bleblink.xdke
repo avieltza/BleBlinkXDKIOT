@@ -1,0 +1,66 @@
+{
+  "project": {
+    "projectSettingsVersion": "2.0.0",
+    "initialAutoPluginCount": 0,
+    "currentBuildConfiguration": "Android",
+    "projectFiles": {},
+    "projectDirectories": {}
+  },
+  "iot-tab": {
+    "fileStatus": {
+      "bleblink.xdk": {
+        "previousModTime": 1449398803908,
+        "modified": 1449398803908,
+        "seen": true,
+        "name": "bleblink.xdk"
+      },
+      "bleblink.xdke": {
+        "previousModTime": 1450105686586,
+        "modified": 1450105686586,
+        "seen": true,
+        "name": "bleblink.xdke"
+      },
+      "characteristic.js": {
+        "previousModTime": 1450105798729,
+        "modified": 1450105798729,
+        "seen": true,
+        "name": "characteristic.js"
+      },
+      "icon.png": {
+        "previousModTime": 1449398803748,
+        "modified": 1449398803748,
+        "seen": true,
+        "name": "icon.png"
+      },
+      "main.js": {
+        "previousModTime": 1449405465881,
+        "modified": 1449405465881,
+        "seen": true,
+        "name": "main.js"
+      },
+      "package.json": {
+        "previousModTime": 1449398803748,
+        "modified": 1449398803748,
+        "seen": true,
+        "name": "package.json"
+      },
+      "README.md": {
+        "previousModTime": 1449398803748,
+        "modified": 1449398803748,
+        "seen": true,
+        "name": "README.md"
+      },
+      "xdk/project-info.json": {
+        "previousModTime": 1449398803888,
+        "modified": 1449398803888,
+        "seen": true,
+        "name": "xdk/project-info.json"
+      }
+    },
+    "boardFileStatus": {
+      "characteristic.js": {
+        "previousModTime": 1450105800825
+      }
+    }
+  }
+}
